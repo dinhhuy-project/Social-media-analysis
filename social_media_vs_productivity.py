@@ -11,10 +11,6 @@ plt.rcParams['figure.figsize'] = (12, 6)
 # Lưu ý: Thay đổi đường dẫn nếu file của bạn nằm ở thư mục khác
 df = pd.read_csv('social_media_vs_productivity.csv')
 
-# Kiểm tra nhanh dữ liệu
-print("=== 5 Dòng đầu tiên của dữ liệu ===")
-display(df.head())
-
 print("\n=== Thông tin tổng quan ===")
 df.info()
 
