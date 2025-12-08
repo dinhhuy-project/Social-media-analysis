@@ -31,3 +31,14 @@ Bộ dữ liệu này chứa 30.000 hồ sơ theo phong cách thực tế, mô p
 
 Bộ dữ liệu này khám phá mối quan hệ giữa việc sử dụng mạng xã hội và sức khỏe tâm thần. Nó bao gồm thông tin về thời gian sử dụng màn hình, chất lượng giấc ngủ, mức độ căng thẳng, tần suất tập thể dục và chỉ số hạnh phúc của người dùng. Mục tiêu là tìm hiểu cách thói quen kỹ thuật số và các yếu tố lối sống ảnh hưởng đến sức khỏe tổng thể và sự cân bằng cảm xúc.
 
+## Run code:
+python Cleaned_Viral_Social_Media_Trends.py
+
+python Mental_Health_and_Social_Media_Balance_Dataset.py
+
+python social_media_vs_productivity.py
+
+python Students_Social_Media_Addiction.py
+
+python Time-Wasters_on_Social_Media.py
+
